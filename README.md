@@ -2,9 +2,9 @@
 
 Save the privacy.com.br videos and photos you already pay for, at the post's **full quality**, decrypted entirely on your own device.
 
-This is the privacy.com.br documentation for [**Fanripper**](https://fanripper.com) — a browser extension that also supports OnlyFans, Fansly and JustForFans.
+This is the privacy.com.br documentation for [**Fanripper**](https://fanripper.com) — a browser extension and an iPhone & Android app that also supports OnlyFans, Fansly and JustForFans.
 
-⬇️ **[Install](https://install.fanripper.com)** &nbsp;·&nbsp; 🌐 **[privacy.com.br downloader page](https://fanripper.com/privacy-downloader)** &nbsp;·&nbsp; 💬 **[Telegram](https://t.me/fanripper)**
+⬇️ **[Install](https://install.fanripper.com)** &nbsp;·&nbsp; 📱 **[iPhone & Android app](https://fanripper.com/app)** &nbsp;·&nbsp; 🌐 **[privacy.com.br downloader page](https://fanripper.com/privacy-downloader)** &nbsp;·&nbsp; 💬 **[Telegram](https://t.me/fanripper)**
 
 > **Em português:** o guia completo em português está em
 > **[fanripper.com/blog/privacy-com-br-video-downloader](https://fanripper.com/blog/privacy-com-br-video-downloader)**.
@@ -49,7 +49,17 @@ One quirk worth knowing: privacy.com.br encodes portrait, so the "1080p" rung is
 1. You must be **signed in** to privacy.com.br in that tab — the run reads your session token.
 2. Start it from the **creator's profile** so it can resolve the `@handle`.
 
-## Install (about 60 seconds)
+## On your phone (iPhone & Android)
+
+Fanripper also runs as an app on your phone. privacy.com.br video, photos and chat media save on the phone as well — decrypted on the phone itself, with the Max or Lifetime plan.
+
+1. Install **Expo Go** (free) from the [App Store](https://apps.apple.com/app/expo-go/id982107779) or [Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent).
+2. Open **[fanripper.com/app](https://fanripper.com/app)** on your phone and tap **Open Fanripper in Expo Go** — or scan the code there with your phone's camera.
+3. Sign in with your Fanripper email: same account and plan as the extension.
+
+Your phone gets its own device slot, so it never signs out your computer. Downloads run while the app is open, and updates arrive on their own. Guia em português: [como baixar vídeos do Privacy no celular](https://fanripper.com/blog/baixar-videos-privacy-celular).
+
+## Install the extension (about 60 seconds)
 
 1. Download `fanripper.zip` from [install.fanripper.com](https://install.fanripper.com).
 2. Unzip it somewhere permanent.
