@@ -2,7 +2,7 @@
 
 Save the privacy.com.br videos and photos you already pay for, at the post's **full quality**, decrypted entirely on your own device.
 
-This is the privacy.com.br documentation for [**Fanripper**](https://fanripper.com) — a browser extension and an iPhone & Android app that also supports OnlyFans, Fansly and JustForFans.
+This is the privacy.com.br documentation for [**Fanripper**](https://fanripper.com) — a browser extension and an iPhone & Android app that also supports OnlyFans, Fansly, JustForFans and Fanfix.
 
 ⬇️ **[Install](https://install.fanripper.com)** &nbsp;·&nbsp; 📱 **[iPhone & Android app](https://fanripper.com/app)** &nbsp;·&nbsp; 🌐 **[privacy.com.br downloader page](https://fanripper.com/privacy-downloader)** &nbsp;·&nbsp; 💬 **[Telegram](https://t.me/fanripper)**
 
@@ -73,7 +73,7 @@ Works on Chrome, Brave and Edge. It is not in the Chrome Web Store because store
 
 ## Which plan
 
-privacy.com.br is on **Max** ($15/month) or **Lifetime** ($99 once), alongside JustForFans. The Free, Basic, Pro and Unlimited plans cover OnlyFans and Fansly. Paid plans are bought inside the extension in crypto or Telegram Stars — no card, no KYC.
+privacy.com.br is on **Max** ($15/month) or **Lifetime** ($99 once), alongside JustForFans and Fanfix. The Free, Basic, Pro and Unlimited plans cover OnlyFans and Fansly. Paid plans are bought inside the extension: crypto (USDT, BTC, ETH, USDC), card, Apple Pay or Google Pay through Telegram Stars, or a gift card — no KYC, nothing renews by itself.
 
 ## Is it safe?
 
@@ -84,7 +84,7 @@ privacy.com.br is on **Max** ($15/month) or **Lifetime** ($99 once), alongside J
 
 ## Links
 
-- 🌐 [fanripper.com](https://fanripper.com) — all four supported sites
+- 🌐 [fanripper.com](https://fanripper.com) — all five supported sites
 - 📊 [Side-by-side capability comparison](https://fanripper.com/supported-sites)
 - 📖 [Guia em português](https://fanripper.com/blog/privacy-com-br-video-downloader)
 - 💬 [Telegram](https://t.me/fanripper)
