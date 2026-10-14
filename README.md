@@ -80,7 +80,7 @@ privacy.com.br is on **Max** ($15/month) or **Lifetime** ($99 once), alongside J
 - Runs entirely in your browser. Video is decrypted on your device; your media and login session never reach our servers.
 - **Never asks for your privacy.com.br password** — it uses the session already open in your browser.
 - Paces requests like ordinary browsing.
-- The shipped build is flagged by **0 of 65** engines on VirusTotal.
+- The shipped build is flagged by **0 of 63** engines on [VirusTotal](https://www.virustotal.com/gui/file/dd8e3884eebc4052beaf212a09dc09cb324d5b74ac10c71199c3703543b97266/detection).
 
 ## Links
 
